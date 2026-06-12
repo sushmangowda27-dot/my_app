@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "71541354951",
+    "firebase_url": "https://campuscore-d435e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "campuscore-d435e",
+    "storage_bucket": "campuscore-d435e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71541354951:android:2919b6e5312eec3fb229e2",
+        "android_client_info": {
+          "package_name": "com.example.campuscoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71541354951-26deq9dke73momftcsp9k4loq2kgl016.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgsATRyk5mxUQOjaazl4RebkfscIiQxjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71541354951-26deq9dke73momftcsp9k4loq2kgl016.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "71541354951-7epd5ir2hrg0d6g7u3sie7cuo8e5uh6j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.campuscoreapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71541354951:android:2b5005aa2a9868b7b229e2",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71541354951-26deq9dke73momftcsp9k4loq2kgl016.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgsATRyk5mxUQOjaazl4RebkfscIiQxjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71541354951-26deq9dke73momftcsp9k4loq2kgl016.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "71541354951-7epd5ir2hrg0d6g7u3sie7cuo8e5uh6j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.campuscoreapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

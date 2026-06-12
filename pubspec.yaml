@@ -1,0 +1,50 @@
+name: my_app
+description: Engineering Notes App + Smart Project Analyzer System
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.5.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # UI
+  cupertino_icons: ^1.0.8
+
+  # Firebase Core
+  firebase_core: ^3.15.2
+  firebase_auth: ^5.7.0
+  cloud_firestore: ^5.6.12
+  firebase_storage: ^12.4.10
+  firebase_messaging: ^15.2.10
+
+  # Google Authentication
+  google_sign_in: ^6.3.0
+  sign_in_with_apple: ^6.1.4
+
+  # File Handling
+  file_picker: ^8.3.7
+
+  # PDF Viewer
+  syncfusion_flutter_pdfviewer: ^29.2.11
+
+  # Open URLs (PPT download)
+  url_launcher: ^6.3.1
+
+  # HTTP (for FastAPI backend)
+  http: ^1.2.0
+
+  # State management
+  provider: ^6.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
